@@ -1,0 +1,31 @@
+"direct": 
+  "amazon-types-sdk": 
+    "type-1": "c"
+    "type-2": "cpp"
+    "type-3": "swift" 
+    "direct-types": "not-cli-theme"
+  "sdk": 
+    "manifest": "Scoolper"
+    "manifest": "Reachaton"
+    "manifest": "React"
+    "manifest": "NuGet"
+    "type": "component-type-SDK"
+    "names":
+      "kit": "Amazon Cloud SDK"
+      "name": "Amazon Cloud SDK for C in Scoolper"
+      "name": "Amazon Cloud SDK for C++ in Reachaton"
+      "name": "Amazon Cloud SDK for Swift in React" 
+      "name": "Amazon Cloud SDK for Cloud CLI"
+    "size": "GB"
+    "typesize": "1.5GB"
+
+# This is a example code and example fiction 
+# .yml file, but it doesn't relate to Amazon's
+# Cloud Services. Please use this file to construct ideas. 
+# This is an Open-Source .yml file, but using .json structure.
+# All the code in this file is imaginated. Do not use this.
+
+-> Copyright Amazon Cloud Services (or AWS, ACS) 2025. All rights reserved.
+-> Copyright Amazon Web Services (or AWS) 2025. All rights reserved. 
+
+- Do Not Use This File For Breaking Copyright, Please. Thank you. 
