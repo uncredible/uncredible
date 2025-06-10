@@ -1,0 +1,1 @@
+android.policy.schema.STATE = torn
